@@ -1,11 +1,11 @@
 # Add bancos
 
-DADOS PREMATRICULA
-DADOS GERADOR RELATORIO
+- DADOS PREMATRICULA
+- DADOS GERADOR RELATORIO
 
 # Add Form
 
-Form_Pre
+- Form_Pre
 
 # planCad
 
